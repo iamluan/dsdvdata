@@ -1,0 +1,55 @@
+﻿ma,Province,Confirm,Active,Recovered,Death
+,52 tỉnh thành,4.212,1.404,2.767,37
+,Hải Dương,775,10,765,0
+,Đà Nẵng,631,164,433,31
+1,Hà Nội,487,232,254,0
+24,Bắc Giang,363,336,27,0
+79,TP. Hồ Chí Minh,272,19,253,0
+27,Bắc Ninh,280,251,27,2
+56,Khánh Hòa,140,33,107,0
+49,Quảng Nam,131,3,115,3
+,Bà Rịa – Vũng Tàu,111,23,88,0
+26,Vĩnh Phúc,107,88,19,0
+22,Quảng Ninh,90,6,84,0
+33,Hưng Yên,66,29,37,0
+34,Thái Bình,58,19,39,0
+95,Bạc Liêu,52,0,52,0
+,Bình Dương,45,1,44,0
+,Kiên Giang,39,20,19,0
+72,Tây Ninh,38,1,37,0
+37,Ninh Bình,36,2,34,0
+92,Cần Thơ,34,10,24,0
+35,Hà Nam,33,25,8,0
+,Hòa Bình,33,8,25,0
+,Đồng Nai,29,7,22,0
+,Phú Yên,29,0,29,0
+,Đồng Tháp,28,0,28,0
+,Gia Lai,27,0,27,0
+,Nam Định,25,7,18,0
+38,Thanh Hóa,25,1,24,0
+83,Bến Tre,20,0,20,0
+,Điện Biên,20,17,3,0
+,Lạng Sơn,20,16,4,0
+,Vĩnh Long,14,7,7,0
+,Quảng Trị,13,6,6,1
+,Sóc Trăng,13,13,0,0
+,Hà Tĩnh,12,8,4,0
+,Ninh Thuận,12,0,12,0
+60,Bình Thuận,11,1,10,0
+,Hải Phòng,10,1,9,0
+,Long An,10,4,6,0
+,An Giang,9,9,0,0
+,Cà Mau,8,0,8,0
+,Tiền Giang,8,2,6,0
+,Trà Vinh,8,0,8,0
+,Quảng Ngãi,7,1,6,0
+46,Thừa Thiên – Huế,7,5,2,0
+,Đắk Lắk,6,3,3,0
+19,Thái Nguyên,6,2,4,0
+,Nghệ An,5,5,0,0
+,Phú Thọ,5,2,3,0
+,Yên Bái,5,3,2,0
+2,Hà Giang,3,1,2,0
+10,Lào Cai,2,0,2,0
+,Lai Châu,1,0,1,0
+,Tuyên Quang,1,1,0,0
